@@ -11,6 +11,7 @@
   inputs.src-tam-master.ref   = "refs/heads/master";
   inputs.src-tam-master.owner = "SolitudeSF";
   inputs.src-tam-master.repo  = "tam";
+  inputs.src-tam-master.dir   = "";
   inputs.src-tam-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

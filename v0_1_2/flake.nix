@@ -11,6 +11,7 @@
   inputs.src-tam-v0_1_2.ref   = "refs/tags/v0.1.2";
   inputs.src-tam-v0_1_2.owner = "SolitudeSF";
   inputs.src-tam-v0_1_2.repo  = "tam";
+  inputs.src-tam-v0_1_2.dir   = "";
   inputs.src-tam-v0_1_2.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
