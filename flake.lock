@@ -358,11 +358,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1668775994,
-        "narHash": "sha256-KMXHyb9jc5IRtcSYfOsPUWjVtFfpedEj+0smLJEGFm0=",
+        "lastModified": 1669431260,
+        "narHash": "sha256-jB4+y3IVthYJVTrSONtckaYUhxbyDbdJ02OWF3HAU24=",
         "owner": "nim-nix-pkgs",
         "repo": "nimquery",
-        "rev": "6e79f24433d6aca24ffce68d9171e3abbb515776",
+        "rev": "00e014ff02ffabae8a6174821146ff18b9c68d6a",
         "type": "github"
       },
       "original": {
@@ -983,11 +983,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1013,11 +1013,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1043,11 +1043,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1073,11 +1073,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1103,11 +1103,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1133,11 +1133,11 @@
       },
       "locked": {
         "dir": "v0_1_4",
-        "lastModified": 1669418209,
-        "narHash": "sha256-UlQjEXYlAKCANVxyNfT9V/kfmEj4IzsnZkQXJdSOd60=",
+        "lastModified": 1669432366,
+        "narHash": "sha256-WP40pnVrshrMF5JoCtAGATuUq27F1CikNP727GQaRCk=",
         "owner": "nim-nix-pkgs",
         "repo": "tam",
-        "rev": "aaada35252561080859c6d8180a54bf912d98021",
+        "rev": "44665286fdef483febf007915a5d994cbcb296b6",
         "type": "github"
       },
       "original": {
@@ -1162,11 +1162,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1668776183,
-        "narHash": "sha256-za/J9/GPKta6LtfMKfDco5FtsBajKGbswk4q05ovwsM=",
+        "lastModified": 1669431429,
+        "narHash": "sha256-H3o1SIhsWyEKdrUGvI9f5ZOaIpIes7x0Z40IPWmNaLo=",
         "owner": "nim-nix-pkgs",
         "repo": "tiny_sqlite",
-        "rev": "570911813f03fc9feea2165fa061ca073510eaf0",
+        "rev": "6ece556cf6bccbacc972ac00c8674392a5b44f62",
         "type": "github"
       },
       "original": {
